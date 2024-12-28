@@ -1,4 +1,4 @@
-package henry.hotel;
+package aashan.hotel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
